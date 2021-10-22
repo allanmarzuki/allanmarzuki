@@ -3,7 +3,7 @@
 - 👀 I’m interested in Artificial Intelligence, Data Science and Software Development
 - 🌱 I’m currently learning Data Science and Computer Vision
 - 💞️ I’m looking to collaborate on data-driven project with artificial intelligence approach
-- 😎 My hobby are music, traveling and sports
+- 😎 My hobby are music, traveling, fishing and sports
 - 📫 How to reach me -> facebook & instagram : @allanmarzuki | gmail : lawiraharlan@gmail.com | LinkedIn : www.linkedin.com/in/lawiraharlan
 
 <!---
